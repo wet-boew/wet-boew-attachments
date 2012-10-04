@@ -1,4 +1,4 @@
 wet-boew-attachments
 ====================
 
-Central repository to host images and other attachments for wet-boew wiki documentation.
+Central repository for hosting images and other attachments for wet-boew wiki documentation.
