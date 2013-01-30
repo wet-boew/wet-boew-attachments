@@ -4,7 +4,7 @@
 
 * http://drupalcampottawa.com/ 
 * Feb 22 and 23
-* Andrew Hoppin from NYS Senate (keynote)
+* Andrew Hoppin from NYS Senate (keynote) - http://nuams.com/
 * Looking for panelists, speakers.
 * Expecting 200+ people on the Friday, (first day)
 
@@ -23,6 +23,8 @@
 * excited about D8 accessibility, new features; now is the time to contribute
  - try hosted D8 today: http://simplytest.me/
 * Shared Services NEEDS TO BE offering SSH access to Drupal VMs; currently not
+* Options with IRCan - https://ircan-rican.gc.ca
+* Need to bring in others who are using Drupal in the GoC
 * SteveOTT: NCC is considering upgrading to D7
 
 ## Misc Conversation:
@@ -34,7 +36,7 @@
 
 ## AndrewS's Presentation (slides by Acquia): Achieving Leaner, More Agile Government
 
-* We'll get left behind if we dont act in the next month or two. 
+* We'll get left behind if we don't act in the next month or two. 
 * The first time CIOC heard about Drupal was this week.  
 * There's a risk they will ignore the RFI and just renew.
 * Chris(phone): why dont we go to CIOC about this? I got a big mouth, so I can help. Why is Corrine Charette just hearing about Drupal now? 
@@ -53,7 +55,7 @@
   - WET distro
   - Drupal embraces and extends open data / open standards: AD, LDAP, XMLRPC, JSON, Shib, CMIS, RDF, etc.
     - proprietary CMS seek lock-in
-    - MikeG: Drupal was the first CMS to implement RDFa.
+    - MikeG: Drupal was the first CMS to implement RDFa in Core.
   - embraces authoring, responsive design (even admin), analytics & search integration, multichannel publishing
   - Scalable:
     - LAMP is proven
@@ -112,7 +114,7 @@ AndrewS: how to increase collaboration (pull requests) on GitHub?
 
 * Jacques Blier: move to drupal.org?
   - We will mirror on Drupal.org, maintain those issue queue too.
-* MikeG: need to enact culture change about contribution, and dedicate resources
+* MikeG: need to enact culture change about contribution, and dedicate resources. Management needs to approve developers time to contribute to WxT & come to events like these.
 * Chris: concern about statscan vs WET dev priority
   - WillH: we actually have a sub-distro for statscan for custom modules; eg sub-theme
 * Laurent: WET core has the same problem; 
@@ -136,7 +138,7 @@ AndrewS: how to increase collaboration (pull requests) on GitHub?
   - Chris(OPIN): let's do a marketing committee
   - Joseph: there's an Interwoven WET group, actually. And Interwoven is here to stay, eg DFAIT is 100% microsoft.
   - WillH: when StatsCan launches, Drupal will be #1 CMS by content count
-  - MikeG: microsoft sponsors Drupal, IBM sells it abroad; we should buy an ad in Govt executive newsletter
+  - MikeG: Microsoft sponsors Drupal, IBM sells it abroad; we should buy an ad in Govt executive newsletter - http://www.canadiangovernmentexecutive.ca/
   - MikeG + Chris_OPIN will take initiative at starting mailing list for this marketing discussion
 
 ## Laurent on WET 3.1
@@ -153,7 +155,7 @@ AndrewS: how to increase collaboration (pull requests) on GitHub?
  - March 2014 - tentatively releasing GETS on Drupal (MERX successor), already have a demo
  - Predated WET-DRUPAL but might re-architect to use it (new idea: no custom code!)
  - Our new model uses PhpQuery as a templating system to avoid hacking WET HTML at all. (jQuery style transforms)
- - MikeG: share some code dammit!
+ - MikeG: OpenConcept was involved in Buy & Sell in the beginning & know that there is a lot of great work done there. It should be shared with the WxT community.
 
 ## Steve OTT wrapup:
  - next meeting: end of Feb/early march
